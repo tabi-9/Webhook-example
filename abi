@@ -1,7 +1,0 @@
-A standard Jenkinsfile contains these core sections: 
-[1] (https://www.jenkins.io/doc/book/pipeline/jenkinsfile/)
-pipeline: The outer block enclosing all pipeline definition code.
-agent: Defines where the pipeline or stage will run (e.g., any available machine).
-stages: A container sequence for one or more stage blocks.
-stage: A distinct phase like Build, Test, or Deploy.
-steps: The actual tasks executed inside a stage
